@@ -26,6 +26,10 @@ scoreboard.py → Score tracking and display
 - Collision detection with food and boundaries
 - Game over detection
 
+## Screenshot
+
+![Snake Game](assets/snake_game.png)
+
 ## Live Demo
 
 You can play the browser version of the game here:
